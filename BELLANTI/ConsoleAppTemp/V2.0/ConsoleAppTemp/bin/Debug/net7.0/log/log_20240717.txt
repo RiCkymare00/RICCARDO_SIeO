@@ -1,6 +1,0 @@
-Inizio dell'attività di logging...
-
-Log Entry : 10:52:18 mercoledì 17 luglio 2024
-  :
-  :Errore durante l'esecuzione del programma: The process cannot access the file 'C:\Users\proje\OneDrive - SI&O SRL\Download\Stock_Copre_20240717.csv' because it is being used by another process.
--------------------------------
