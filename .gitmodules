@@ -1,0 +1,6 @@
+[submodule "IDECO"]
+	path = IDECO
+	url = https://github.com/RiCkymare00/IDECO.git
+[submodule "SI&O"]
+	path = SI&O
+	url = https://github.com/RiCkymare00/SIEO.git
