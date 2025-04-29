@@ -4,6 +4,3 @@
 [submodule "SI&O"]
 	path = SI&O
 	url = https://github.com/RiCkymare00/SIEO.git
-[submodule "BELLANTI"]
-	path = BELLANTI
-	url = https://github.com/USERNAME/BELLANTI.git
