@@ -1,0 +1,96 @@
+Inizio dell'attività di logging...
+
+Log Entry : 16:06:58 giovedì 17 aprile 2025
+  :
+  :Eccezione: 
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'value')
+   at System.Net.Mail.SmtpClient.set_Port(Int32 value)
+   at ConsoleAppTemp.Run.InviaEmail(String oggetto, String messaggio) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\Run.cs:line 1456
+-------------------------------
+
+Log Entry : 16:07:01 giovedì 17 aprile 2025
+  :
+  :Eccezione durante apertura della connessione. DSN 'bellanti' does not exist
+-------------------------------
+
+Log Entry : 16:08:27 giovedì 17 aprile 2025
+  :
+  :Eccezione: 
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'value')
+   at System.Net.Mail.SmtpClient.set_Port(Int32 value)
+   at ConsoleAppTemp.Run.InviaEmail(String oggetto, String messaggio) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\Run.cs:line 1456
+-------------------------------
+
+Log Entry : 16:10:41 giovedì 17 aprile 2025
+  :
+  :Errore durante l'esecuzione del programma: Could not find file 'C:\Users\proje\OneDrive - SI&O SRL\Download\esportazione CATEGORIE EDIEL.xlsx'.
+-------------------------------
+
+Log Entry : 16:10:53 giovedì 17 aprile 2025
+  :
+  :Eccezione: 
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'value')
+   at System.Net.Mail.SmtpClient.set_Port(Int32 value)
+   at ConsoleAppTemp.Run.InviaEmail(String oggetto, String messaggio) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\Run.cs:line 1456
+-------------------------------
+
+Log Entry : 16:11:29 giovedì 17 aprile 2025
+  :
+  :FTP UploadFile error: 
+-------------------------------
+
+Log Entry : 16:11:45 giovedì 17 aprile 2025
+  :
+  :Eccezione: 
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'value')
+   at System.Net.Mail.SmtpClient.set_Port(Int32 value)
+   at ConsoleAppTemp.Run.InviaEmail(String oggetto, String messaggio) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\Run.cs:line 1456
+-------------------------------
+
+Log Entry : 16:12:03 giovedì 17 aprile 2025
+  :
+  :Eccezione: 
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'value')
+   at System.Net.Mail.SmtpClient.set_Port(Int32 value)
+   at ConsoleAppTemp.Run.InviaEmail(String oggetto, String messaggio) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\Run.cs:line 1456
+-------------------------------
+
+Log Entry : 16:20:27 giovedì 17 aprile 2025
+  :
+  :Eccezione: 
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'value')
+   at System.Net.Mail.SmtpClient.set_Port(Int32 value)
+   at ConsoleAppTemp.Run.InviaEmail(String oggetto, String messaggio) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\Run.cs:line 1493
+-------------------------------
+
+Log Entry : 16:22:40 giovedì 17 aprile 2025
+  :
+  :FTP UploadFile error: 
+-------------------------------
+
+Log Entry : 16:23:52 giovedì 17 aprile 2025
+  :
+  :FTP UploadFile error: 
+-------------------------------
+
+Log Entry : 16:31:24 giovedì 17 aprile 2025
+  :
+  :Eccezione: 
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'value')
+   at System.Net.Mail.SmtpClient.set_Port(Int32 value)
+   at ConsoleAppTemp.Run.InviaEmail(String oggetto, String messaggio) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\Run.cs:line 1493
+-------------------------------
+
+Log Entry : 16:32:07 giovedì 17 aprile 2025
+  :
+  :Upload File Complete, status 226 Transfer complete
+
+-------------------------------
+
+Log Entry : 16:33:16 giovedì 17 aprile 2025
+  :
+  :Eccezione: 
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'value')
+   at System.Net.Mail.SmtpClient.set_Port(Int32 value)
+   at ConsoleAppTemp.Run.InviaEmail(String oggetto, String messaggio) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\Run.cs:line 1493
+-------------------------------

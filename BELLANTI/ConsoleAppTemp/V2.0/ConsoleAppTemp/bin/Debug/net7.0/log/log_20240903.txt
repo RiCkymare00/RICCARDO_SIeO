@@ -1,0 +1,6 @@
+Inizio dell'attività di logging...
+
+Log Entry : 09:59:27 martedì 3 settembre 2024
+  :
+  :Errore durante l'esecuzione del programma: Column 'Prezzo_Acquisto' does not belong to table .
+-------------------------------

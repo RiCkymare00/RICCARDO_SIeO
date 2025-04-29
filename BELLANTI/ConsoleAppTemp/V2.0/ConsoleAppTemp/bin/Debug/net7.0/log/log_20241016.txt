@@ -1,0 +1,13 @@
+Inizio dell'attività di logging...
+
+Log Entry : 09:38:15 mercoledì 16 ottobre 2024
+  :
+  :Upload File Complete, status 226 Successfully transferred "/COPRE-SIEO-BELLANTI/Items_Copre_20241016.csv"
+
+-------------------------------
+
+Log Entry : 09:42:47 mercoledì 16 ottobre 2024
+  :
+  :Upload File Complete, status 226 Successfully transferred "/COPRE-SIEO-BELLANTI/Stock_Copre_20241016.csv"
+
+-------------------------------

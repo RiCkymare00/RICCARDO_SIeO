@@ -1,0 +1,70 @@
+Inizio dell'attività di logging...
+
+Log Entry : 16:53:10 giovedì 12 settembre 2024
+  :
+  :Errore durante l'esecuzione del programma: Column 'classificazione' does not belong to table .
+-------------------------------
+
+Log Entry : 16:56:10 giovedì 12 settembre 2024
+  :
+  :Errore durante esecuzione query: update t_EXSL_ExternalSupplierLevelTranscoding set exsl_lev4_code = '10480' where exsl_supplierlevelcode = 'IB' and exsl_exsu_code = '#SM'
+iAnywhere.Data.SQLAnywhere.SAException (0x80004005): Table 't_EXSL_ExternalSupplierLevelTranscoding' not found
+   at iAnywhere.Data.SQLAnywhere.SACommand.ExecuteNonQuery()
+   at ConsoleAppTemp.DBAccess.ExecuteQuery(String query) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\DBAccess.cs:line 146
+-------------------------------
+
+Log Entry : 17:06:22 giovedì 12 settembre 2024
+  :
+  :Errore durante esecuzione query: USE [MiaConsole_SIEO_Bellanti] update t_EXSL_ExternalSupplierLevelTranscoding set exsl_lev4_code = '10480' where exsl_supplierlevelcode = 'IB' and exsl_exsu_code = '#SM'
+iAnywhere.Data.SQLAnywhere.SAException (0x80004005): Syntax error near 'update' on line 1
+   at iAnywhere.Data.SQLAnywhere.SACommand.ExecuteNonQuery()
+   at ConsoleAppTemp.DBAccess.ExecuteQuery(String query) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\DBAccess.cs:line 146
+-------------------------------
+
+Log Entry : 17:08:04 giovedì 12 settembre 2024
+  :
+  :Errore durante esecuzione query: update t_EXSL_ExternalSupplierLevelTranscoding set exsl_lev4_code = '10480' where exsl_supplierlevelcode = 'IB' and exsl_exsu_code = '#SM'
+iAnywhere.Data.SQLAnywhere.SAException (0x80004005): Table 't_EXSL_ExternalSupplierLevelTranscoding' not found
+   at iAnywhere.Data.SQLAnywhere.SACommand.ExecuteNonQuery()
+   at ConsoleAppTemp.DBAccess.ExecuteQuery(String query)
+-------------------------------
+
+Log Entry : 17:08:59 giovedì 12 settembre 2024
+  :
+  :Errore durante esecuzione query: USE [MiaConsole_SIEO_Bellanti]; update t_EXSL_ExternalSupplierLevelTranscoding set exsl_lev4_code = '10480' where exsl_supplierlevelcode = 'IB' and exsl_exsu_code = '#SM';
+iAnywhere.Data.SQLAnywhere.SAException (0x80004005): Syntax error near 'update' on line 1
+   at iAnywhere.Data.SQLAnywhere.SACommand.ExecuteNonQuery()
+   at ConsoleAppTemp.DBAccess.ExecuteQuery(String query)
+-------------------------------
+
+Log Entry : 17:10:43 giovedì 12 settembre 2024
+  :
+  :Errore durante esecuzione query: update [MiaConsole_SIEO_Bellanti].dbo.t_EXSL_ExternalSupplierLevelTranscoding set exsl_lev4_code = '10480' where exsl_supplierlevelcode = 'IB' and exsl_exsu_code = '#SM';
+iAnywhere.Data.SQLAnywhere.SAException (0x80004005): Table 't_EXSL_ExternalSupplierLevelTranscoding' not found
+   at iAnywhere.Data.SQLAnywhere.SACommand.ExecuteNonQuery()
+   at ConsoleAppTemp.DBAccess.ExecuteQuery(String query)
+-------------------------------
+
+Log Entry : 17:11:29 giovedì 12 settembre 2024
+  :
+  :Errore durante esecuzione query: update [MiaConsole_SIEO_Bellanti].dbo.t_EXSL_ExternalSupplierLevelTranscoding set exsl_lev4_code = '10480' where exsl_supplierlevelcode = 'IB' and exsl_exsu_code = '#SM';
+iAnywhere.Data.SQLAnywhere.SAException (0x80004005): Table 't_EXSL_ExternalSupplierLevelTranscoding' not found
+   at iAnywhere.Data.SQLAnywhere.SACommand.ExecuteNonQuery()
+   at ConsoleAppTemp.DBAccess.ExecuteQuery(String query)
+-------------------------------
+
+Log Entry : 17:12:19 giovedì 12 settembre 2024
+  :
+  :Errore durante esecuzione query: update [MiaConsole_SIEO_Bellanti].[dbo].[t_EXSL_ExternalSupplierLevelTranscoding] set exsl_lev4_code = '10480' where exsl_supplierlevelcode = 'IB' and exsl_exsu_code = '#SM';
+iAnywhere.Data.SQLAnywhere.SAException (0x80004005): Table 't_EXSL_ExternalSupplierLevelTranscoding' not found
+   at iAnywhere.Data.SQLAnywhere.SACommand.ExecuteNonQuery()
+   at ConsoleAppTemp.DBAccess.ExecuteQuery(String query)
+-------------------------------
+
+Log Entry : 17:18:20 giovedì 12 settembre 2024
+  :
+  :Errore durante esecuzione query: update [t_EXSL_ExternalSupplierLevelTranscoding] set exsl_lev4_code = '10480' where exsl_supplierlevelcode = 'IB' and exsl_exsu_code = '#SM';
+iAnywhere.Data.SQLAnywhere.SAException (0x80004005): Table 't_EXSL_ExternalSupplierLevelTranscoding' not found
+   at iAnywhere.Data.SQLAnywhere.SACommand.ExecuteNonQuery()
+   at ConsoleAppTemp.DBAccess.ExecuteQuery(String query) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\DBAccess.cs:line 146
+-------------------------------

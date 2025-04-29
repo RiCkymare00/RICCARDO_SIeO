@@ -1,0 +1,41 @@
+Inizio dell'attività di logging...
+
+Log Entry : 12:24:50 mercoledì 23 ottobre 2024
+  :
+  :Eccezione: 
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'value')
+   at System.Net.Mail.SmtpClient.set_Port(Int32 value)
+   at ConsoleAppTemp.Run.InviaEmail(String oggetto, String messaggio) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\Run.cs:line 1456
+-------------------------------
+
+Log Entry : 12:24:55 mercoledì 23 ottobre 2024
+  :
+  :Eccezione durante apertura della connessione. Invalid user ID or password
+-------------------------------
+
+Log Entry : 12:27:15 mercoledì 23 ottobre 2024
+  :
+  :Eccezione durante apertura della connessione. Invalid user ID or password
+-------------------------------
+
+Log Entry : 12:30:09 mercoledì 23 ottobre 2024
+  :
+  :Eccezione: 
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'value')
+   at System.Net.Mail.SmtpClient.set_Port(Int32 value)
+   at ConsoleAppTemp.Run.InviaEmail(String oggetto, String messaggio) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\Run.cs:line 1456
+-------------------------------
+
+Log Entry : 12:30:27 mercoledì 23 ottobre 2024
+  :
+  :Upload File Complete, status 226 Successfully transferred "/COPRE-SIEO-BELLANTI/Items_Copre_20241023.csv"
+
+-------------------------------
+
+Log Entry : 12:30:27 mercoledì 23 ottobre 2024
+  :
+  :Eccezione: 
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'value')
+   at System.Net.Mail.SmtpClient.set_Port(Int32 value)
+   at ConsoleAppTemp.Run.InviaEmail(String oggetto, String messaggio) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\Run.cs:line 1456
+-------------------------------

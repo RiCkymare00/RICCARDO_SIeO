@@ -1,0 +1,14 @@
+Inizio dell'attività di logging...
+
+Log Entry : 15:06:53 martedì 29 ottobre 2024
+  :
+  :Eccezione: 
+System.ArgumentOutOfRangeException: Specified argument was out of the range of valid values. (Parameter 'value')
+   at System.Net.Mail.SmtpClient.set_Port(Int32 value)
+   at ConsoleAppTemp.Run.InviaEmail(String oggetto, String messaggio) in C:\Users\proje\source\repos\ConsoleAppTemp\ConsoleAppTemp\Run.cs:line 1456
+-------------------------------
+
+Log Entry : 15:07:01 martedì 29 ottobre 2024
+  :
+  :Errore durante l'esecuzione del programma: The process cannot access the file 'C:\Users\proje\OneDrive - SI&O SRL\Download\Items_Copre_20241029.csv' because it is being used by another process.
+-------------------------------
