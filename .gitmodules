@@ -7,3 +7,6 @@
 [submodule "BELLANTI"]
 	path = BELLANTI
 	url = https://github.com/RiCkymare00/BELLANTI.git
+[submodule "CROLLA"]
+	path = CROLLA
+	url = https://github.com/RiCkymare00/CROLLA.git
