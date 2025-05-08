@@ -10,3 +10,6 @@
 [submodule "CROLLA"]
 	path = CROLLA
 	url = https://github.com/RiCkymare00/CROLLA.git
+[submodule "STERIFIT"]
+	path = STERIFIT
+	url = https://github.com/RiCkymare00/STERIFIT.git
