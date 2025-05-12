@@ -14,5 +14,5 @@
 	path = STERIFIT
 	url = https://github.com/RiCkymare00/STERIFIT.git
 [submodule "BRUSCHI"]
-	path = STERIFIT
+	path = BRUSCHI
 	url = https://github.com/RiCkymare00/BRUSCHI.git
