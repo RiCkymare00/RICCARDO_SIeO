@@ -16,3 +16,6 @@
 [submodule "BRUSCHI"]
 	path = BRUSCHI
 	url = https://github.com/RiCkymare00/BRUSCHI.git
+[submodule "JUMBO"]
+	path = JUMBO
+	url = https://github.com/RiCkymare00/JUMBO.git
