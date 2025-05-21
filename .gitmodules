@@ -19,3 +19,6 @@
 [submodule "JUMBO"]
 	path = JUMBO
 	url = https://github.com/RiCkymare00/JUMBO.git
+[submodule "ELETTROCASA"]
+	path = ELETTROCASA
+	url = https://github.com/RiCkymare00/ELETTROCASA.git
